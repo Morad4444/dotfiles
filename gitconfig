@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = morad.younis.123@gmail.com
+	name = morad younis
